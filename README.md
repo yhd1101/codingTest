@@ -1,4 +1,4 @@
-<img width="681" alt="image" src="https://github.com/yhd1101/coadingTest/assets/117626705/a1698db3-38be-4c60-a3ab-40ce6cd1fed6"># test
+ test
 ## 환경
 Node.js를 실행환경으로 사용했습니다. 
 
@@ -9,7 +9,8 @@ Node.js를 실행환경으로 사용했습니다.
 
 ## 4. four.js
 - 실행값
-<img width="681" alt="image" src="https://github.com/yhd1101/coadingTest/assets/117626705/bb1b39d6-5ad8-4e6e-8756-15a7b099f181">
+![image](https://github.com/yhd1101/codingTest/assets/117626705/5ac7b9fd-c885-440b-bd4d-67304bb9393f)
+
 
 
 ## 5. five.js
