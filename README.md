@@ -24,6 +24,7 @@ Node.js를 실행환경으로 사용했습니다.
 
 ## 7. seven.js
 -실행값
+
 <img width="681" alt="image" src="https://github.com/yhd1101/coadingTest/assets/117626705/8ca9ad58-d69f-41ba-9808-55e97283a406">
 
 
